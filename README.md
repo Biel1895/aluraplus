@@ -38,7 +38,7 @@ Este site foi projetado para ser responsivo, o que significa que ele se adapta a
 
 ## Como Visualizar o Site
 
-Você pode acessar meu site pessoal [clicando aqui](https://biel1895.github.io/aluraplus/).
+Você pode acessar meu site pessoal [clicando aqui](https://aluraplus-rho-bay.vercel.app/).
 
 ## Contribuição
 
