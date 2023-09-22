@@ -28,11 +28,11 @@ O site foi projetado com elementos interativos para melhorar a experiência do u
 
 Este site foi projetado para ser responsivo, o que significa que ele se adapta automaticamente a diferentes tamanhos de tela, tornando-o fácil de usar em dispositivos móveis e desktops.
 
-Tecnologias Utilizadas
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-HTML5: Para a estruturação do conteúdo da página.
+## Tecnologias Utilizadas
 
-CSS3: Para estilização e design responsivo.
+- **HTML5:** Para a estruturação do conteúdo da página.
+
+- **CSS3:** Para estilização e design responsivo.
 
 ## Como Visualizar o Site
 
@@ -40,7 +40,8 @@ Você pode acessar meu site pessoal [clicando aqui](https://biel1895.github.io/a
 
 ## Contribuição
 Se desejar contribuir para este projeto, sinta-se à vontade para criar issues, sugestões ou enviar pull requests. Todas as contribuições são bem-vindas!
-Autores
+
+## Autores
 Gabriel Rios - Desenvolvedor
 
 ---
