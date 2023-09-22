@@ -44,7 +44,7 @@ Você pode acessar meu site pessoal [clicando aqui](https://biel1895.github.io/a
 
 Se desejar contribuir para este projeto, sinta-se à vontade para criar issues, sugestões ou enviar pull requests. Todas as contribuições são bem-vindas!
 
-## Autores
+## Autor
 
 Gabriel Rios - Desenvolvedor
 
