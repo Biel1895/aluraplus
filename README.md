@@ -6,13 +6,13 @@ Bem-vindo ao repositório oficial do site Alura Combo+! Aqui, você encontrará 
 
 O Alura Combo+ é um site de cursos online de tecnologia que oferece acesso a uma variedade de cursos de programação, front-end, back-end, data science, UX, DevOps, inovação e gestão. Este site foi criado para promover o Alura Combo+, que combina os serviços Alura+ e Alura Língua em uma única assinatura.
 
-Funcionalidades Principais
+## Funcionalidades Principais
 
-Apelo Visual: Utiliza um design atraente com imagens e elementos visuais para cativar os visitantes.
+- **Apelo Visual:** Utiliza um design atraente com imagens e elementos visuais para cativar os visitantes.
 
-Navegação Intuitiva: A navegação foi projetada para ser intuitiva, com links para seções importantes e botões de chamada para ação.
+- **Navegação Intuitiva:** A navegação foi projetada para ser intuitiva, com links para seções importantes e botões de chamada para ação.
 
-Links Externos: Inclui links para a página oficial da Alura para permitir que os visitantes se inscrevam no serviço.
+- **Links Externos:** Inclui links para a página oficial da Alura para permitir que os visitantes se inscrevam no serviço.
 
 ## Interatividade
 
