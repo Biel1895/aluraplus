@@ -11,8 +11,21 @@
   --cor-botao-azul: #167bf7;
   --cor--fundo-preto: #00030c;
   --botao-efeito: #3c92fa;
+  --cor-scrollbar: #888;
 
   --fonte-principal: "Inter", sans-serif;
+}
+::-webkit-scrollbar {
+  width: 7px;
+  background-color: var(--cor--fundo-preto);
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--cor-scrollbar);
+  border: 2px solid var(--cor-scrollbar);
+  border-radius: 20px;
 }
 
 body {
