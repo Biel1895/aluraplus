@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório oficial do site Alura Combo+! Aqui, você encontrará todas as informações e recursos relacionados ao projeto do site Alura Combo+.
 
+![Screenshot do Site](./assets/screencapture-biel1895-github-io-aluraplus-2023-09-22-01_47_23.png)
+
 ## Visão Geral
 
 O Alura Combo+ é um site de cursos online de tecnologia que oferece acesso a uma variedade de cursos de programação, front-end, back-end, data science, UX, DevOps, inovação e gestão. Este site foi criado para promover o Alura Combo+, que combina os serviços Alura+ e Alura Língua em uma única assinatura.
@@ -18,7 +20,7 @@ O Alura Combo+ é um site de cursos online de tecnologia que oferece acesso a um
 
 O site foi projetado com elementos interativos para melhorar a experiência do usuário:
 
-- **Botões de Assinatura**: Os botões de "Assine por 12x de R$120,00*" e "Assinar somente o Alura+" são interativos e levam você para a página de assinatura da Alura.
+- **Botões de Assinatura**: Os botões de "Assine por 12x de R$120,00\*" e "Assinar somente o Alura+" são interativos e levam você para a página de assinatura da Alura.
 
 - **Ícones de Dispositivos**: Os ícones de dispositivos na seção "Disponível nos seus dispositivos favoritos" são clicáveis e fornecem informações adicionais.
 
@@ -39,9 +41,11 @@ Este site foi projetado para ser responsivo, o que significa que ele se adapta a
 Você pode acessar meu site pessoal [clicando aqui](https://biel1895.github.io/aluraplus/).
 
 ## Contribuição
+
 Se desejar contribuir para este projeto, sinta-se à vontade para criar issues, sugestões ou enviar pull requests. Todas as contribuições são bem-vindas!
 
 ## Autores
+
 Gabriel Rios - Desenvolvedor
 
 ---
